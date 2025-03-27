@@ -8,8 +8,7 @@ use_real_time
 
 #---------------------------------------------------------
 #SAMPLES
-track_title = "TrackTitle"
-s = "C:/Users/rober/Desktop/TRIBΞHOLZ/!SonicPi/Tracks/#{track_title}/samples"
+s = "C:/your/sample/path/here"
 
 #---------------------------------------------------------
 #METRONOME
