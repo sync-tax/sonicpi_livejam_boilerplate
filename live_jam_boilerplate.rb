@@ -11,7 +11,7 @@ use_real_time
 #Define your samples inside the hash map
 #Use by calling s[:sample_name]
 
-s_path = "C:/Users/rober/Desktop/TRIBΞHOLZ/!SonicPi/samples/!ALL/"
+s_path = "C:/your/sample/path/here/sample.wav"
 
 s = {
   kick: "#{s_path}/kicks/kick (99).wav",
